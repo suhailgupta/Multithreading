@@ -1,4 +1,4 @@
-**Multithreading and Concurrency in Java (LLD Focused)**
+**🧵Multithreading and Concurrency in Java (LLD Focused)**
 
 This repository demonstrates multithreading and concurrency in Java with a strong focus on Low Level Design (LLD) problems and modern Java concurrency concepts.
 It is intended for backend engineers and interview preparation, covering both classical threading models and modern Java features up to Java 25 concepts.
@@ -13,7 +13,7 @@ The purpose of this repository is to help developers:
 * Learn modern Java concurrency tools
 * Prepare for LLD and multithreading interviews
 
-**Core Multithreading Concepts Covered**
+**🧠Core Multithreading Concepts Covered**
 
 * Thread lifecycle and states
 * Thread creation using Thread, Runnable, Callable
@@ -61,7 +61,7 @@ The repository includes Low Level Design implementations of the scatter gather c
 
 This pattern is commonly used in API gateways, search systems and microservice orchestration.
 
-**LLD Problems Based on Multithreading**
+**⚙️LLD Problems Based on Multithreading**
 
 The following Low Level Design problems are implemented with a focus on thread safety and performance:
 
@@ -73,7 +73,7 @@ The following Low Level Design problems are implemented with a focus on thread s
 Each problem focuses on class design, synchronization strategy, and scalability.
 
 
-**Who Should Use This Repository**
+**🎯Who Should Use This Repository**
 
 * Backend Java developers
 * Engineers preparing for LLD interviews
